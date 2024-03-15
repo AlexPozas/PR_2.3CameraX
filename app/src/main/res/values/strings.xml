@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraX2</string>
+    <string name="capture" />
+    <string name="preview_area" />
+</resources>
